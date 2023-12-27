@@ -1,5 +1,5 @@
 # Microsoft-EDGE-Windows-7-CRACK
-## 120.0.2210.77_x64
+## 120.0.2210.77_x64    120.0.2210.91_x86
 `--no-sandbox`**is no longer needed! Exception:** for temporary printing operations (Ctrl + P/ Ctrl + Shift + P)
 
 ![120_sandboxED](MSEDGE_120_77.png "Microsoft EDGE Windows 7")
