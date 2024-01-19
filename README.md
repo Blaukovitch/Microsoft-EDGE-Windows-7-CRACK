@@ -13,6 +13,7 @@ Dirty corporations and Hindu-managers are trying to deprive the any users of all
 ## Chromium based projects
 🌈 [Google Chrome](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7_CRACK/) **PRIMARY** branch  
 🅾️ [Opera 102.0.4880.70](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7_CRACK/releases/tag/Opera_EARLY/) browser   
+🦁 [BRAVE 120.1.61.120](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7_CRACK/releases/tag/brave) browser  
 🟢 [Spotify 1.2.22.982](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7_CRACK/releases/tag/Spotify_first) music
   
 ## How it's work?  
