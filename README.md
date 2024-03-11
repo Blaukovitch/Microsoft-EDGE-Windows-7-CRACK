@@ -1,8 +1,10 @@
 # Microsoft-EDGE-Windows-7-CRACK
-## 120.0.2210.77_x64    120.0.2210.91_x86
-`--no-sandbox`**is no longer needed! Exception:** for temporary printing operations (Ctrl + P/ Ctrl + Shift + P)
+## 122.0.2365.80
+Prev: 120.0.2210.77_x64, 120.0.2210.91_x86
+`--no-sandbox`**is no longer needed! Exception:** for temporary printing/pdf view operations in x64 (Ctrl + P/ Ctrl + Shift + P)
 
-![120_sandboxED](MSEDGE_120_77.png "Microsoft EDGE Windows 7")
+
+![image](https://github.com/Blaukovitch/Microsoft-EDGE-Windows-7-CRACK/assets/116763547/3337b4f1-08dc-4660-b867-d0f215f5f3bb)
  
 * see *!!!!!!!README_FIRST!.pdf*
 ![PH](MSEDGE_120_77_PROCESS_HACKER.png "Process Hacker Windows 7")  
@@ -55,7 +57,9 @@ https://github.com/Blaukovitch/API-MS-WIN_XP
 1) Download from release the merged pack; 
 
 ## WOW! WebGPU on Windows 7
-May be unstable!  
+**Full Microsoft DirectX 11** support until ver. **122** (!!!!!!!)  
+
+
 Add to command line (with *--no-sandbox*) webgpu flag and **DirectX 3D 11** as webgpu render:  
 `--enable-unsafe-webgpu --use-webgpu-adapter=d3d11`  
 In launched Chrome/MSEDGE must set enabled those flags:  
@@ -66,13 +70,13 @@ and restart again.
 ## Features table
 | Critical | State |
 | ------ | ------ |
-| Stable | ✔️ |
+| Stable | ❓ |
 | WinAPI lifting | approx. **95%** |
 | Sandbox support (print/PDF view) | ✔️/❌ | 
 | DirectX Write render | ✔️ | 
 | DXVAVDA | ✔️ | 
 | WebGL1/2 | ✔️ | 
-| WebGPU / DirectX 11 (gpu)| ❓ | 
+| WebGPU / DirectX 11 (gpu)| ✔️ | 
 
 ## YOUTUBE
 https://www.youtube.com/watch?v=idzQV2wNUAI
